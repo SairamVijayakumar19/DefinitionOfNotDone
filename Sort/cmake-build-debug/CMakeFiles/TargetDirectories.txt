@@ -1,0 +1,3 @@
+C:/Users/saira/BLJ2022SaVij/C/KW39/Sort/cmake-build-debug/CMakeFiles/Sort.dir
+C:/Users/saira/BLJ2022SaVij/C/KW39/Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saira/BLJ2022SaVij/C/KW39/Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
